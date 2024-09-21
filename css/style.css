@@ -1,4 +1,7 @@
-﻿@import url(../font-icomoon/style-font-icomoon.css);
+﻿@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+
+@import url(../font-icomoon/style-font-icomoon.css);
 @import url(./parts-css/null-style.css);
 @import url(./parts-css/_app-store.css);
 @import url(./parts-css/_google-play.css);
